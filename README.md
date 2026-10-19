@@ -9,6 +9,8 @@
 
 2026 KW 해커톤 (광운대학교) · **배리어프리 및 생활 편의** 트랙 · 13조 NowonLikeUs
 
+> **보존용 사본입니다.** 원본은 [2026-KW-HACKATHON/13_NowonLikeUs](https://github.com/2026-KW-HACKATHON/13_NowonLikeUs)이고, 13조(정우성 · 우희태 · 김권섭 · 박용민)가 함께 만들었습니다. 커밋 기록은 원본 그대로 옮겼고, 미러로 따라오지 않는 PR 84건의 본문 · 리뷰 · 댓글은 [`docs/pr-archive/`](docs/pr-archive/)에 따로 담았습니다.
+
 ---
 
 ## 30초 요약
